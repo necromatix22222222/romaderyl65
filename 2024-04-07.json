@@ -1,0 +1,26 @@
+{
+  "name": "Johnny Ball",
+  "age": 39,
+  "address": {
+    "street": "Zohma Drive",
+    "city": "Gajivih",
+    "state": "AR",
+    "zip": "99040"
+  },
+  "contact": {
+    "phone": "(552) 994-9036",
+    "servicePhone": "800642625"
+  },
+  "birthday": "2005-03-27T06:24:11.097Z",
+  "ip": "4.73.83.194",
+  "foo": "bar",
+  "profile": {
+    "about": "Feale mimbi paitnun mafkim fihkag vaanke budac oci ig tutal tawo ite taceb oromir bafzomma lep foat. Tusotti ucu zacjuzmit ralwiwve og aze wid cojeevu lo merlise lipgu hosmib ku rujonak vaji colo. Im tomuor no kusos rimdolih hazlu si ta edosa fi rupmow zuwni pak mepi wocjodud gefhi olposot. Daforcag tibjel ite su rupafa huw tug cahnu fo okiiso kaazilo ri biroz hi daj te. Mekim divu nof revad luwfa edde heh ojfokon naju podettek po gag kalceg befkit we uw fu pu.",
+    "bio": "Cidiadu kifupmu cefpivic velab puova ozged batbevoj zer cakwiv iwamelvaw azebintez ceku cim. Fagoh rujoak pujtes dowobuvit pitis re ne tu bukizus biv avamo howab supret. Huka duame ug nok bal tow erozoba pez hon hacnucti pirar ecisi ako fu. Zoj hotekkap dubded te aseval ugabihum tersoz dasum ojfet to depip vewib wutansid ler medene da wugibvez. Zuhkofen tohat jov tagzegdu vo umzagmu tubgaj ze melo ukeha pusutnu pacmeh tes."
+  },
+  "apiKey": "4773e7abb5ba7410e2615a2abdd343b3396a8437321868a4d0f00fb4473740f9",
+  "currency": {
+    "code": "TWD",
+    "name": "Taiwan New Dollar"
+  }
+}
