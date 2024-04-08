@@ -1,0 +1,26 @@
+{
+  "name": "Derek Erickson",
+  "age": 38,
+  "address": {
+    "street": "Daka Key",
+    "city": "Ugecohwe",
+    "state": "MS",
+    "zip": "21361"
+  },
+  "contact": {
+    "phone": "(316) 905-9475",
+    "servicePhone": "800157677"
+  },
+  "birthday": "2004-08-19T05:50:49.753Z",
+  "ip": "254.73.223.91",
+  "foo": "bar",
+  "profile": {
+    "about": "Locu bizih li ucubanoh olieje tuna cohoco vor vak eruva hu ojluske sir sifvec. Opo igace hut mec dave opnemnet viseira sueheve kivlat pepozbuh ogniir sinivel si du ic. Pudonbi ti wekib muj ilo vomachon nah doibaut hazu itvo piniso ibose.",
+    "bio": "Ja jac emkove fohne sucidje kul husittuh okkes nubuasa ger dadduw hobgipte ofbuj fefsa wucojod roiwi. Kuduv ac doollab korlud bum pa erjimofo hamalol gafeume ozuenju negoruk nogsi relop sopre ju wefekap. Wo nif bajemmed rukwiv cora raza jefbin wahopu pujsi eda ves evwih mamihce wuc fub ibu."
+  },
+  "apiKey": "5029a479dc8211830ae770ec9c39858c324ee705424df74393fc057e40a7f311",
+  "currency": {
+    "code": "TMT",
+    "name": "Turkmenistan Manat"
+  }
+}
